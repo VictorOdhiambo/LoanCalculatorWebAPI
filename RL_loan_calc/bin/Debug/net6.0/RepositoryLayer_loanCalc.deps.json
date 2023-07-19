@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RepositoryLayer_loanCalc/1.0.0": {
+        "dependencies": {
+          "DomainLayer_loanCalc": "1.0.0"
+        },
+        "runtime": {
+          "RepositoryLayer_loanCalc.dll": {}
+        }
+      },
+      "DomainLayer_loanCalc/1.0.0": {
+        "runtime": {
+          "DomainLayer_loanCalc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RepositoryLayer_loanCalc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DomainLayer_loanCalc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

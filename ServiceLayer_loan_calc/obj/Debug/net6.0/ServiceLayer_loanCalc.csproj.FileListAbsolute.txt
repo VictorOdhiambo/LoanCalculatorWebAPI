@@ -1,0 +1,17 @@
+C:\Users\vomondi\source\repos\LoanCalculator_webAPI\ServiceLayer_loan_calc\bin\Debug\net6.0\ServiceLayer_loanCalc.deps.json
+C:\Users\vomondi\source\repos\LoanCalculator_webAPI\ServiceLayer_loan_calc\bin\Debug\net6.0\ServiceLayer_loanCalc.dll
+C:\Users\vomondi\source\repos\LoanCalculator_webAPI\ServiceLayer_loan_calc\bin\Debug\net6.0\ref\ServiceLayer_loanCalc.dll
+C:\Users\vomondi\source\repos\LoanCalculator_webAPI\ServiceLayer_loan_calc\bin\Debug\net6.0\ServiceLayer_loanCalc.pdb
+C:\Users\vomondi\source\repos\LoanCalculator_webAPI\ServiceLayer_loan_calc\bin\Debug\net6.0\DomainLayer_loanCalc.dll
+C:\Users\vomondi\source\repos\LoanCalculator_webAPI\ServiceLayer_loan_calc\bin\Debug\net6.0\RepositoryLayer_loanCalc.dll
+C:\Users\vomondi\source\repos\LoanCalculator_webAPI\ServiceLayer_loan_calc\bin\Debug\net6.0\RepositoryLayer_loanCalc.pdb
+C:\Users\vomondi\source\repos\LoanCalculator_webAPI\ServiceLayer_loan_calc\bin\Debug\net6.0\DomainLayer_loanCalc.pdb
+C:\Users\vomondi\source\repos\LoanCalculator_webAPI\ServiceLayer_loan_calc\obj\Debug\net6.0\ServiceLayer_loanCalc.csproj.AssemblyReference.cache
+C:\Users\vomondi\source\repos\LoanCalculator_webAPI\ServiceLayer_loan_calc\obj\Debug\net6.0\ServiceLayer_loanCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vomondi\source\repos\LoanCalculator_webAPI\ServiceLayer_loan_calc\obj\Debug\net6.0\ServiceLayer_loanCalc.AssemblyInfoInputs.cache
+C:\Users\vomondi\source\repos\LoanCalculator_webAPI\ServiceLayer_loan_calc\obj\Debug\net6.0\ServiceLayer_loanCalc.AssemblyInfo.cs
+C:\Users\vomondi\source\repos\LoanCalculator_webAPI\ServiceLayer_loan_calc\obj\Debug\net6.0\ServiceLayer_loanCalc.csproj.CoreCompileInputs.cache
+C:\Users\vomondi\source\repos\LoanCalculator_webAPI\ServiceLayer_loan_calc\obj\Debug\net6.0\ServiceLayer_loanCalc.csproj.CopyComplete
+C:\Users\vomondi\source\repos\LoanCalculator_webAPI\ServiceLayer_loan_calc\obj\Debug\net6.0\ServiceLayer_loanCalc.dll
+C:\Users\vomondi\source\repos\LoanCalculator_webAPI\ServiceLayer_loan_calc\obj\Debug\net6.0\ref\ServiceLayer_loanCalc.dll
+C:\Users\vomondi\source\repos\LoanCalculator_webAPI\ServiceLayer_loan_calc\obj\Debug\net6.0\ServiceLayer_loanCalc.pdb

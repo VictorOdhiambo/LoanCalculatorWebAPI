@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hONbyr9fYNr47laHxjZAOoKZIcHZNCyKrYvw4ZDj/SU=",
+  "Source": "LoanCalculator_webAPI",
+  "BasePath": "_content/LoanCalculator_webAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

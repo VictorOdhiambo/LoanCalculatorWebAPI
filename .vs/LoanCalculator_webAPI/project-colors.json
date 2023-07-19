@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "33bd1284-56d7-4236-ab80-89fb59dbef25": {
+      "ProjectGuid": "33bd1284-56d7-4236-ab80-89fb59dbef25",
+      "DisplayName": "DomainLayer_loanCalc",
+      "ColorIndex": 0
+    },
+    "eb8af0f9-13f8-40c3-801c-159d0bec3141": {
+      "ProjectGuid": "eb8af0f9-13f8-40c3-801c-159d0bec3141",
+      "DisplayName": "ServiceLayer_loanCalc",
+      "ColorIndex": 1
+    },
+    "0e53ca97-3e95-441e-9040-1c001b04ce4c": {
+      "ProjectGuid": "0e53ca97-3e95-441e-9040-1c001b04ce4c",
+      "DisplayName": "RepositoryLayer_loanCalc",
+      "ColorIndex": 2
+    },
+    "7bd79e7c-1d1a-4730-8ba4-0928d80f9a03": {
+      "ProjectGuid": "7bd79e7c-1d1a-4730-8ba4-0928d80f9a03",
+      "DisplayName": "LoanCalculator_webAPI",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
